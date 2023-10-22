@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'sabotage';
+    font-weight: 400;
+    font-style: normal;
+    src: url('assets/sabotage.woff2') format('woff2');
+    src: url('assets/sabotage.woff') format('woff');
+   }
+
+   @font-face {
+    font-family: 'sabotage';
+    font-weight: 100;
+    font-style: normal;
+    src: url('HelveticaNeueLTStd-UltLtCn.woff2') format('woff2');
+    src: url('HelveticaNeueLTStd-UltLtCn.woff') format('woff');
+   }
+
+   @font-face {
+    font-family: 'sabotage';
+    font-weight: 200;
+    font-style: normal;
+    src: url('HelveticaNeueLTStd-UltLtCn.woff2') format('woff2');
+    src: url('HelveticaNeueLTStd-UltLtCn.woff') format('woff');
+   }
+   
+   @font-face {
+    font-family: 'sabotage';
+    font-weight: 300;
+    font-style: normal;
+    src: url('HelveticaNeueLTStd-UltLtCn.woff2') format('woff2');
+    src: url('HelveticaNeueLTStd-UltLtCn.woff') format('woff');
+   }
+   
+   @font-face {
+    font-family: 'sabotage';
+    font-weight: 400;
+    font-style: normal;
+    src: url('HelveticaNeueLTStd-UltLtCn.woff2') format('woff2');
+    src: url('HelveticaNeueLTStd-UltLtCn.woff') format('woff');
+   }
+   
+  
