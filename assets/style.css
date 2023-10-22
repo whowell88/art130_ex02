@@ -38,4 +38,15 @@
     src: url('HelveticaNeueLTStd-UltLtCn.woff') format('woff');
    }
    
+  html {
+    background-color:beige
+  }
+  body{
+    font-family: Helvetica 'Times Neue Roman',
+  }
+  .kicker {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
   
