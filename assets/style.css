@@ -39,14 +39,26 @@
    }
    
   html {
-    background-color:beige
+    background-color:rgb(175, 177, 171);
   }
+
+  html {
+    font-family: 'Helvetica Neue Roman''
+  }
+  
   body{
     font-family: Helvetica 'Times Neue Roman',
   }
+  .wrapper {
+    position: relative;
+    background-color: rgb(236, 58, 42);
+    margin: 4rem 4rem 0 4rem;
+    padding: 2rem;
+  }
+
   .kicker {
     display: block;
     margin-bottom: 0.5rem;
+    padding: 2rem;
   }
 
-  
